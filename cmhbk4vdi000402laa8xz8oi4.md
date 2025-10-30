@@ -1,13 +1,13 @@
 ---
 title: "Client-Server Architecture for Beginners"
 seoTitle: "Client-Server Architecture explained for beginners with examples"
-seoDescription: "Discover the basics of client-server architecture: how websites work, roles of client and server, and the network and protocols involved. "
+seoDescription: "Discover the basics of client-server architecture: how websites work, roles of client and server, and the network and protocols involved."
 datePublished: Wed Oct 29 2025 05:30:57 GMT+0000 (Coordinated Universal Time)
 cuid: cmhbk4vdi000402laa8xz8oi4
 slug: client-server-architecture-for-beginners
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/ukzHlkoz1IE/upload/77d73afaed53fbb084a3a467a1a4ab53.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1761715646893/d3fdb58b-3af6-41fd-af3d-37136cef9d9f.png
-tags: web-development, computer-science, hashnode, system-design, computer-networking
+tags: web-development, computer-science, hashnode, system-design, computer-networking, client-server-architecture
 
 ---
 
